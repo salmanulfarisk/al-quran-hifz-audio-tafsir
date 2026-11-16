@@ -62,11 +62,9 @@ Most Quran and Hifz apps either lock AI voice memorization behind expensive year
 
 ## Screenshots
 
-> Add your Play Store screenshots inside the [`screenshots/`](./screenshots) folder and link them here (e.g. `![Home Screen](screenshots/01_home.png)`).
-
-| Home & Prayer Times | Tasmee' AI Exam | Study & Morphology | Mushaf Reader |
-| :---: | :---: | :---: | :---: |
-| *(Add `01_home.png`)* | *(Add `02_tasmee_exam.png`)* | *(Add `03_study_grammar.png`)* | *(Add `04_mushaf_reader.png`)* |
+| Home Dashboard | Prayer Times & Progress | Tasmee' AI Exam | Study & Morphology | Tajweed Mushaf |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Home Dashboard](screenshots/01_home.jpg) | ![Prayer Times & Progress](screenshots/02_prayer_progress.jpg) | ![Tasmee AI Exam](screenshots/03_tasmee_exam.jpg) | ![Study & Morphology](screenshots/04_study_grammar.jpg) | ![Tajweed Mushaf](screenshots/05_mushaf_reader.jpg) |
 
 ---
 
